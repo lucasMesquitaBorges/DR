@@ -46,4 +46,4 @@ Agradeço ao time do CORE pela oportunidade e confiança.
 
 ## 📝 License
 
-Copyright © 2020 [Santiago Paschoalick](https://github.com/spaschoalick).<br />
+Copyright © 2021 [Santiago Paschoalick](https://github.com/spaschoalick).<br />
