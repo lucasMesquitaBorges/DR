@@ -7,13 +7,13 @@
 
 ### 🏠 [Guia](/)
 
-* **Item #01** - [TERRAFORM](https://github.com/msfidelis/terraformando-eks/tree/aula00_vpc)
+* **Item #01** - [TERRAFORM](https://github.com/spaschoalick/DR)
 
-* **Item #02** - [RANCHER](https://github.com/msfidelis/terraformando-eks/tree/aula01_eks) 
+* **Item #02** - [RANCHER](https://github.com/spaschoalick/DR) 
 
-* **Aula #03** - [VELERO](https://github.com/msfidelis/terraformando-eks/tree/aula02_nodes)
+* **Aula #03** - [VELERO](https://github.com/spaschoalick/DR)
 
-* **Aula #04** - [MSQL](https://github.com/msfidelis/terraformando-eks/tree/aula03_traefik)
+* **Aula #04** - [MSQL](https://github.com/spaschoalick/DR)
 
 ## Instalação
 
