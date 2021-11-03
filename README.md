@@ -1,15 +1,7 @@
 <h1 align="center">FRETEBRAS-DR 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-v0-blue.svg?cacheSeconds=2592000" />
-#  <a href=".docs/" target="_blank">
-#    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-#  </a>
-#  <a href="LICENSE" target="_blank">
-#    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-#  </a>
-#  <a href="https://twitter.com/fidelissauro" target="_blank">
-#    <img alt="Twitter: fidelissauro" src="https://img.shields.io/twitter/follow/fidelissauro.svg?style=social" />
-#  </a>
+
 </p>
 
 > Codebase da série de videos Terraformando o EKS no Youtube
