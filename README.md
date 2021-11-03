@@ -1,10 +1,9 @@
 <h1 align="center">FRETEBRAS-DR 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-v0-blue.svg?cacheSeconds=2592000" />
-
 </p>
 
-> Codebase da série de videos Terraformando o EKS no Youtube
+> Doc para orientação sobre recosntrução do ambiente produtivo em caso de desastre
 
 ### 🏠 [Guia](/)
 
