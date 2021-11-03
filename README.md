@@ -32,8 +32,6 @@ ADM, Central, Site e APP
 
 * RANCHER
 Com docker instalado, execute o comando no terminal de sua disto para provisionar um rancher single instance em seu equipamento
-
-
 ## Autor
 
 👤 **Santiago Paschoalick**
