@@ -26,9 +26,9 @@
 
 * LinkedIn: [@spaschoalick](linkedin.com/in/spaschoalick)
 
-## 🤝 Contribuiç
+## 🤝 Contribuições
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](/issues).
+Agradeço ao time do CORE pela oportunidade e confiança.
 
 ## 📝 License
 
