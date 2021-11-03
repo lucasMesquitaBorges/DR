@@ -24,7 +24,7 @@
 
 👤 **Santiago Paschoalick**
 
-* LinkedIn: [@msfidelis](https://linkedin.com/in/msfidelis)
+* LinkedIn: [@spaschoalick](linkedin.com/in/spaschoalick)
 
 ## 🤝 Contribuiç
 
