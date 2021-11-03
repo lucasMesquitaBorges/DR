@@ -7,15 +7,13 @@
 
 ### 🏠 [Guia](/)
 
-* **Item #01 - Terraform** - [Exemplos](https://github.com/msfidelis/terraformando-eks/tree/aula00_vpc) - [Video](https://www.youtube.com/watch?v=-ghbb9PyGxY)
+* **Item #01 - Terraform** - [Exemplos](https://github.com/msfidelis/terraformando-eks/tree/aula00_vpc)
 
-* **Item #02 - Rancher** - [Exemplos](https://github.com/msfidelis/terraformando-eks/tree/aula01_eks) - [Video](https://www.youtube.com/watch?v=-ghbb9PyGxY)
+* **Item #02 - Rancher** - [Exemplos](https://github.com/msfidelis/terraformando-eks/tree/aula01_eks) 
 
-* **Aula #03 - Velero** - [Exemplos](https://github.com/msfidelis/terraformando-eks/tree/aula02_nodes) - [Video](https://www.youtube.com/watch?v=kXqiqZ5Nap8)
+* **Aula #03 - Velero** - [Exemplos](https://github.com/msfidelis/terraformando-eks/tree/aula02_nodes)
 
-* **Aula #04 - MySql** - [Exemplos](https://github.com/msfidelis/terraformando-eks/tree/aula03_traefik) - [Video](https://www.youtube.com/watch?v=ThONqZT2Mfs&t=9s)
-
-* **Aula #05 - Auto Scale do Cluster** - [Exemplos](https://github.com/msfidelis/terraformando-eks/tree/aula04_scale) - [Video](https://www.youtube.com/watch?v=tYikrqYRAaQ)
+* **Aula #04 - MySql** - [Exemplos](https://github.com/msfidelis/terraformando-eks/tree/aula03_traefik)
 
 ## Instalação
 
