@@ -19,10 +19,10 @@
 
 Este documento visa apresentar um forma rápida para garantir a reconstrucao do ambiente produtivo da EMPRESA com as principais aplicações para garantir o mínimo das funcionalidades da EMPRESA
 
-Pre-requisitos
+* Pre-requisitos
 Pensando em um cenário de desastre, se faz necessário como premissa os backups de banco de dados MYSQL arquivos de backup do VELERO.
 
-Skills
+* Skills
 Partindo do principio que todo o ambiente da FRETEBRAS foi perdido, as skill necessárias para a reconstrução são conhecimento em AWS, Terraform, Docker, K8S, Rancher e VELERO
 Todo o ambiente da Fretebras é construído de forma inicial dentro do k8s, no caso utiliza-se o EKS (serviço gerenciado da AWS) para garantir níveis mais altos de disponibilidade.
 
@@ -30,7 +30,7 @@ Este documento visa dar uma visão geral, imaginando que a operação básica da
 Aplicações envolvidas.
 ADM, Central, Site e APP
 
-RANCHER
+* RANCHER
 Com docker instalado, execute o comando no terminal de sua disto para provisionar um rancher single instance em seu equipamento
 
 
